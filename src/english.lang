@@ -1,0 +1,15 @@
+const char *prve[] = {
+                        "New connection",
+                        "Exit"
+                  };
+
+const char *druhe[] = {
+                        "address:",
+                        "username:",
+                        "password:"
+                  };
+
+const char *tretie[] = {
+                        "folder name:"
+                  };
+

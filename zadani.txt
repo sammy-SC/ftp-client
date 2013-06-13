@@ -1,0 +1,1 @@
+Vícevláknový ftp client v ncurses (tedy program stahuje soubory pomocí více vláken): server umí načítat strukturu adresářů z FTP serveru a umožňuje jí procházet, vytvářet soubory/adresáře (na ftp serveru). Navíc musí umět zkopírovat soubor nebo adresář(rekurzivně) do nějakého lokálního adresáře. 

@@ -1,0 +1,8 @@
+#define ENTER 10
+#define ESCAPE 27
+#define TAB 9
+#define F5 269
+#define F6 270
+#define DELETE_KEY 330
+#define EXIT_PHRASE "exit"
+#define BACK_PHRASE "back"
